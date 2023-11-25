@@ -1,0 +1,54 @@
+table {
+  width: 70%;
+  margin: auto;
+  padding-top: 0px;
+}
+.header {
+  background-color: rgb(38, 142, 233);
+  color: white;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.header-image {
+  width: 20%;
+}
+.header-empty {
+  width: 100%;
+}
+.image {
+  width: 80%;
+  height: auto;
+  padding: 5px;
+}
+.header-text {
+  width: 100%;
+}
+.tableleft {
+  width: 100%;
+  height: 100%;
+}
+.tableright {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(226, 224, 224);
+}
+.tableleft-container {
+  vertical-align: top;
+  width: 30%;
+}
+.tableright-container {
+  vertical-align: top;
+  width: 70%;
+  background-color: rgb(226, 224, 224);
+}
+a:hover {
+  color: aqua;
+}
+.data {
+  padding-top: 20px;
+  padding-left: 10px;
+  text-align: left;
+}
